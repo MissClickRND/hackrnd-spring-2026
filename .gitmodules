@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/MissClickRND/hackrnd-spring-2026-backend.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/MissClickRND/hackrnd-spring-2026-mobile.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/MissClickRND/hackrnd-spring-2026-frontend.git
